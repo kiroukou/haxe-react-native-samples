@@ -1,0 +1,17 @@
+
+-cp src
+-main Main 
+
+-dce full
+-js bin/generated/index.js 
+
+-lib hxgenjs
+-D js_es=6
+
+-lib haxe-lodash
+-lib react-next
+-lib react-native
+-lib js-object
+
+-debug
+-D debug

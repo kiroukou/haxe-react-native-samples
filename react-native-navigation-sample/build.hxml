@@ -1,0 +1,18 @@
+-cp src
+-main Main
+-dce std
+
+-lib react-next
+-lib react-native
+-lib js-object
+-lib react-native-navigation
+
+-lib hxgenjs
+-D js_es=6
+
+
+-debug 
+-D debug
+# -D debug_macro
+-js bin/generated/index.js
+

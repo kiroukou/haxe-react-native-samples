@@ -1,0 +1,9 @@
+.DS_Store
+*/.DS_Store
+
+**/node_modules/
+**/.haxelib/
+
+**/bin/rn-cli.config.js
+**/bin/package-lock.json
+**/bin/yarn-lock.json
