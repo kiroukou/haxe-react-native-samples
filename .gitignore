@@ -7,3 +7,5 @@
 **/bin/rn-cli.config.js
 **/bin/package-lock.json
 **/bin/yarn-lock.json
+
+**/ios/build/

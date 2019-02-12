@@ -1,3 +1,5 @@
+haxelib newrepo
+
 haxelib install asynctools 0.1.0
 haxelib install autotest 0.1.0
 haxelib install buddy 2.10.0
@@ -16,3 +18,20 @@ haxelib install tink_core 1.20.0
 haxelib install tink_hxx 0.17.0
 haxelib install tink_macro 0.17.3
 haxelib install tink_parse 0.2.0
+
+haxelib set asynctools 0.1.0
+haxelib set autotest 0.1.0
+haxelib set buddy 2.10.0
+haxelib set enzyme 0.6.0
+haxelib set hxgenjs 0.4.1
+haxelib set js-object 0.0.6
+haxelib set promhx 1.1.0
+haxelib set react-next 1.107.0
+haxelib set redux-connect 0.2.0
+haxelib set redux-thunk 0.0.2
+haxelib set redux 0.5.1
+haxelib set tink_anon 0.3.3
+haxelib set tink_core 1.20.0
+haxelib set tink_hxx 0.17.0
+haxelib set tink_macro 0.17.3
+haxelib set tink_parse 0.2.0

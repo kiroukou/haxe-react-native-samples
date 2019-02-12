@@ -26,6 +26,13 @@ install the npm dependencies, running :
 Depending on the way the react-native project has been setup (expo init or react-native init command), the way to run it may vary a little.
 npm run start if the way to go most of the time.
 
+## Compile sample
+
+Simply call
+``` haxe build.hxml```
+it will create a generated folder inside bin/, which content will be linked trough js file (index.js / App.js)
+
+
 # Purpose of this samples
 
 The way these samples are structured is also to help people to improve the stack.
@@ -48,4 +55,16 @@ So far the investigation would lead to :
  
  
  Any help would be greatly appreciated !
+ 
+ # Information concerning HMR (Hot reload)
+ 
+ There's a link here explaining the concept behind it : https://facebook.github.io/react-native/blog/2016/03/24/introducing-hot-reloading
+ 
+ 
+Also, some information to be aware of if not used to react-native stack.  Hot reloading isn't enabled by default.
+You need to enable it (depends on the platform) : 
+ * iOS share device and enable it from dev menu
+ * Expo  disable live reload to make hot reload possible, then enable hot reload
+ * Android : not sure..
+ 
  
