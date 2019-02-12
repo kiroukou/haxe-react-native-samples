@@ -8,12 +8,12 @@ import react.native.api.AppRegistry;
 import react.native.component.*;
 import react.native.navigation.Navigation;
 
-class Main extends ReactComponent {
+class Main {
 
-	override function render() { return jsx('<View><Text>React native App Sample</Text></View>'); }
+	// override function render() { return jsx('<View><Text>React native App Sample</Text></View>'); }
 
 	public static function main() {
-		AppRegistry.registerComponent('Main', function() return Main);
+		// AppRegistry.registerComponent('Main', function() return Main);
 		Register.registerScreens();
 		start();
 	}
@@ -52,10 +52,12 @@ class Main extends ReactComponent {
 	});
 
 	static function start() {
-		Navigation.events().registerAppLaunchedListener(function() {
-			setDefaults();
-			setNavigationStack();
-		});
+		setDefaults();
+		Navigation.events().registerAppLaunchedListener(
+			function() {
+				setNavigationStack();
+			}
+		);
 	}
 
 	static function setNavigationStack() {
@@ -91,6 +93,6 @@ class Main extends ReactComponent {
 	}
 
 	static function setDefaults() {
-		Navigation.setDefaultOptions(tools.NavigationUtils.defaultOptions);
+		// Navigation.setDefaultOptions(tools.NavigationUtils.defaultOptions);
 	}
 }
