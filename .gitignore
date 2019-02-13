@@ -4,6 +4,8 @@
 **/node_modules/
 **/.haxelib/
 
+**/bin/**/app/build/
+
 **/bin/rn-cli.config.js
 **/bin/package-lock.json
 **/bin/yarn-lock.json
