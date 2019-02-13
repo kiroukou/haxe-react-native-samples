@@ -27,7 +27,7 @@ class HomeScene extends (React_Component().Component) {
 	constructor(props) {
 		super(props);
 		this.state = { };
-		this.items = [{ label : "one", value : "First"},{ label : "twooo", value : "Second"},{ label : "three", value : "Third"}];
+		this.items = [{ label : "Oneee?", value : "First"},{ label : "twooo", value : "Second"},{ label : "three", value : "Third"}];
 	}
 	onCategoryPressed(item,index) {
 		(tools_NavigationUtils().default).navPush(this,item.value,null);

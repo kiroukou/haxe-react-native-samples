@@ -1,0 +1,190 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:2:1-17:12
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:2:1-15:12
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/97b057aaac3ae13dfd2fb6d98ca58e95/AndroidManifest.xml:2:1-13:12
+MERGED from [com.android.support:design:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/659257a7406a6198d65a239d723ba616/AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/ae8278e0d079a507bb9527cb6b7dc129/AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7f5b6741fc477b4ef507bad09e1d4a48/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17dc7fb1efdf1c9dc4d1d8d85fb1e3fe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1d9e3e7cecb6bbb1dc173424d8faa251/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b734391975daa31b77417298fb057b35/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/30887b01cf5dc082011fa73d7683e199/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/45d3d6b136a83f76c93c828a2edc3a54/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec328c4da5d7793f2bb02b0f3c837572/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1af0bb5baa20fcc7f9153c882d40402/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff6026d7249b2ba5df00a9f360376aa3/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4f16939084c9fae336bd8e57cbe9c7a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5e378e41be84521065b984a288e80f5a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c40a630eae5a56809a815a25695f3d82/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9aee60766d4594092b03d003998d3477/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8322c2ad1814afdef05c93cab2c02819/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b607f72de1268bdd57b4115f61acf143/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/afcd56abaebbf74f9024dabff1e884b7/AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/66c49b6863e4ba9ad6ff63e9b3c0d5fc/AndroidManifest.xml:2:1-13:12
+MERGED from [org.webkit:android-jsc:r174650] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d94b0801a4562aa7d6cd59e2d2994c3/AndroidManifest.xml:1:1-3:12
+MERGED from [com.github.clans:fab:1.6.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c6c20754c10db213dbb2377a8980c5ae/AndroidManifest.xml:2:1-14:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/faabe161a8aa9f875c5d14eb56e6ebcd/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10e04882629cb5bc5157a2d754ea7e22/AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/1a8a37ee7e8b6fa2931105e85cf7dbff/AndroidManifest.xml:2:1-9:12
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d039a2b782947558aa53f5263edb796/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f7b90d3b17694d23224d39ac30e46478/AndroidManifest.xml:17:1-22:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+	package
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:2:5-22
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:4:5-67
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:4:22-64
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:5:5-77
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:11:5-78
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:11:5-78
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:5:22-75
+application
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:7:5-24:19
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:11:5-15:19
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:13:5-20
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:13:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/97b057aaac3ae13dfd2fb6d98ca58e95/AndroidManifest.xml:11:5-20
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/97b057aaac3ae13dfd2fb6d98ca58e95/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/66c49b6863e4ba9ad6ff63e9b3c0d5fc/AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/66c49b6863e4ba9ad6ff63e9b3c0d5fc/AndroidManifest.xml:11:5-20
+MERGED from [org.webkit:android-jsc:r174650] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d94b0801a4562aa7d6cd59e2d2994c3/AndroidManifest.xml:2:3-17
+MERGED from [org.webkit:android-jsc:r174650] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/android-jsc-r174650.aar/4d94b0801a4562aa7d6cd59e2d2994c3/AndroidManifest.xml:2:3-17
+MERGED from [com.github.clans:fab:1.6.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c6c20754c10db213dbb2377a8980c5ae/AndroidManifest.xml:12:5-20
+MERGED from [com.github.clans:fab:1.6.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c6c20754c10db213dbb2377a8980c5ae/AndroidManifest.xml:12:5-20
+	android:label
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:9:7-39
+	android:icon
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:10:7-41
+	android:allowBackup
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:11:7-34
+	android:theme
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:12:7-38
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:8:7-38
+activity#com.bin.MainActivity
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:13:7-22:18
+	android:label
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:15:9-41
+	android:windowSoftInputMode
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:17:9-51
+	android:configChanges
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:16:9-79
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:14:9-37
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:18:9-21:25
+action#android.intent.action.MAIN
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:19:13-65
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:19:21-62
+category#android.intent.category.LAUNCHER
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:20:13-73
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:20:23-70
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:23:7-84
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:12:9-14:40
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:12:9-14:40
+	android:exported
+		ADDED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:14:13-37
+	android:name
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:23:17-81
+uses-sdk
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-navigation] /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/node_modules/react-native-navigation/lib/android/app/build/intermediates/manifests/full/reactNative57_5/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.57.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/react-native-0.57.8.aar/51d8d68884ffd93b806a29638ccc3739/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/97b057aaac3ae13dfd2fb6d98ca58e95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.wix-playground:ahbottomnavigation:2.4.8] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/ahbottomnavigation-2.4.8.aar/97b057aaac3ae13dfd2fb6d98ca58e95/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/659257a7406a6198d65a239d723ba616/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/design-27.1.1.aar/659257a7406a6198d65a239d723ba616/AndroidManifest.xml:20:5-44
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/ae8278e0d079a507bb9527cb6b7dc129/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.wix-playground:reflow-animator:1.0.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/reflow-animator-1.0.4.aar/ae8278e0d079a507bb9527cb6b7dc129/AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7f5b6741fc477b4ef507bad09e1d4a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/appcompat-v7-27.1.1.aar/7f5b6741fc477b4ef507bad09e1d4a48/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17dc7fb1efdf1c9dc4d1d8d85fb1e3fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-v4-27.1.1.aar/17dc7fb1efdf1c9dc4d1d8d85fb1e3fe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1d9e3e7cecb6bbb1dc173424d8faa251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-fragment-27.1.1.aar/1d9e3e7cecb6bbb1dc173424d8faa251/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b734391975daa31b77417298fb057b35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-27.1.1.aar/b734391975daa31b77417298fb057b35/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/30887b01cf5dc082011fa73d7683e199/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-27.1.1.aar/30887b01cf5dc082011fa73d7683e199/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/45d3d6b136a83f76c93c828a2edc3a54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-ui-27.1.1.aar/45d3d6b136a83f76c93c828a2edc3a54/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec328c4da5d7793f2bb02b0f3c837572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-core-utils-27.1.1.aar/ec328c4da5d7793f2bb02b0f3c837572/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1af0bb5baa20fcc7f9153c882d40402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-27.1.1.aar/e1af0bb5baa20fcc7f9153c882d40402/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff6026d7249b2ba5df00a9f360376aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/transition-27.1.1.aar/ff6026d7249b2ba5df00a9f360376aa3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4f16939084c9fae336bd8e57cbe9c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-media-compat-27.1.1.aar/e4f16939084c9fae336bd8e57cbe9c7a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5e378e41be84521065b984a288e80f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:27.1.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/support-compat-27.1.1.aar/5e378e41be84521065b984a288e80f5a/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c40a630eae5a56809a815a25695f3d82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fresco-1.10.0.aar/c40a630eae5a56809a815a25695f3d82/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9aee60766d4594092b03d003998d3477/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-okhttp3-1.10.0.aar/9aee60766d4594092b03d003998d3477/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8322c2ad1814afdef05c93cab2c02819/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/drawee-1.10.0.aar/8322c2ad1814afdef05c93cab2c02819/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b607f72de1268bdd57b4115f61acf143/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-1.10.0.aar/b607f72de1268bdd57b4115f61acf143/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/afcd56abaebbf74f9024dabff1e884b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/imagepipeline-base-1.10.0.aar/afcd56abaebbf74f9024dabff1e884b7/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/66c49b6863e4ba9ad6ff63e9b3c0d5fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.5.1] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/soloader-0.5.1.aar/66c49b6863e4ba9ad6ff63e9b3c0d5fc/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c6c20754c10db213dbb2377a8980c5ae/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.clans:fab:1.6.4] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fab-1.6.4.aar/c6c20754c10db213dbb2377a8980c5ae/AndroidManifest.xml:8:5-10:41
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/faabe161a8aa9f875c5d14eb56e6ebcd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.0.aar/faabe161a8aa9f875c5d14eb56e6ebcd/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10e04882629cb5bc5157a2d754ea7e22/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.0.aar/10e04882629cb5bc5157a2d754ea7e22/AndroidManifest.xml:20:5-44
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/1a8a37ee7e8b6fa2931105e85cf7dbff/AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:1.10.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/fbcore-1.10.0.aar/1a8a37ee7e8b6fa2931105e85cf7dbff/AndroidManifest.xml:5:5-7:41
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d039a2b782947558aa53f5263edb796/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/9d039a2b782947558aa53f5263edb796/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f7b90d3b17694d23224d39ac30e46478/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.0] /Users/thomasfetiveau/.gradle/caches/transforms-1/files-1.1/runtime-1.1.0.aar/f7b90d3b17694d23224d39ac30e46478/AndroidManifest.xml:20:5-44
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		ADDED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+IMPLIED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_PHONE_STATE
+IMPLIED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc has a targetSdkVersion < 4
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+IMPLIED from /Users/thomasfetiveau/wksp_haxelib/haxe-react-native-samples/react-native-navigation-sample/bin/android/app/src/main/AndroidManifest.xml:1:1-26:12 reason: org.webkit.android_jsc requested WRITE_EXTERNAL_STORAGE

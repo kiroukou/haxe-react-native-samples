@@ -90,7 +90,7 @@ trace("appeared");
 		return jsx('
 			<View style={styles.container}>
 				<Text style={styles.text}>
-					This is Scene1
+					This is Scene1 (one)
 					${msg}
 				</Text>
 				<Button 

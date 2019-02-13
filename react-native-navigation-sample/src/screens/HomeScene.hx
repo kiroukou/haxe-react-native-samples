@@ -42,7 +42,7 @@ class HomeScene extends ReactComponentOfProps<HomeProps> {
 		super(props);
 		state = {}
 		items = [
-			{label: 'one', value: 'First'},
+			{label: 'Oneee?', value: 'First'},
 			{label: 'twooo', value: 'Second'},
 			{label: 'three', value: 'Third'},
 		];
